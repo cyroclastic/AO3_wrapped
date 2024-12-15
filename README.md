@@ -27,3 +27,6 @@ NOTE: THIS FORK IS A MODIFICATION TO CHANGE THE YEAR I DO NOT TAKE CREDIT FOR TH
 - Changed the year in the code to check your 2024 fics
 - Changed the source pic repo to one that has the 2024 pic (ps sorry the canva font didn't match perfectly :/)
 - Added `# Modified for 2024` on the lines that were changed
+
+## Notes
+- Unfortunately the way the code works is that it takes everyting from the start of the marked year to the current time, so it'll need to be updated again manually for 2025 (I'm too lazy to fix this rn lmao)
