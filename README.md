@@ -2,6 +2,8 @@
 files for ao3 wrapped
 
 ## TL:DR Guide
+[Google Colab code link](https://colab.research.google.com/drive/1uNLVq03i03khZmaVklhzo4VD02xnTKNX?usp=sharing)
+
 After you put your password in the quotes in box that says:
 ```
 username ="" #Please enter your username in between the quotation marks. DO NOT remove the quotation marks!
@@ -19,5 +21,3 @@ NOTE: THIS FORK IS A MODIFICATION TO CHANGE THE YEAR I DO NOT TAKE CREDIT FOR TH
 - Changed the year in the code to check your 2024 fics
 - Changed the source pic repo to one that has the 2024 pic (ps sorry the canva font didn't match perfectly :/)
 - Added `# Modified for 2024` on the lines that were changed
-
-[Modified colab notebook link](https://colab.research.google.com/drive/1uNLVq03i03khZmaVklhzo4VD02xnTKNX?usp=sharing)
